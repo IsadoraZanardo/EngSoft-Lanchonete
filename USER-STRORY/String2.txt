@@ -1,0 +1,15 @@
+FUNCIONALIDADES FINANCEIRAS
+
+1) Como cliente
+   Quero escolher a forma de pagamento (cartão, dinheiro ou pix)
+   Para finalizar minha comanda
+
+
+2) Como gerente
+   Quero visualizar relatórios 
+   Para acompanhar o desenvolvimento financeiro da lanchonete
+
+
+3) Como garçom
+   Quero entregar o pedido de forma ágil
+   Para garantir que seja valorizado como colaborador

@@ -1,0 +1,7 @@
+FUNCIONALIDADES BÁSICAS
+
+1) Como gerente do meu estabelecimento, eu quero que os produtos sejam cadastrados e atualizados no meu sistema (com o nome, preço e categoria). Para ajudar os meus atendentes a terem um trabalho mais facilitado e atualizado de acordo com as modernidades atuais, facilitando o ato de registrar pedidos corretamente.
+
+2) Como atendente, eu quero poder registrar os pedidos de uma forma mais rápida e agilizada, gerando menos espera; eu quero selecionar o produto no cardápio e já ficar registrado no pedido automaticamente, indicando a mesa do cliente e horário de realização; eu quero que os pedidos sejam enviado automaticamente para a cozinha para que os cozinheiros iniciem o preparo imediatamente. Para não ocorrer atraso nas entregas, Quero que o pedido registrado seja .
+
+3) Como membro da cozinha, eu quero que o pedido venha de uma forma clara e direta do que o cliente quer, sem rabiscos e sem confusões e podendo visualizar os pedidos em tempo real. Para organizar a produção e entregar a comida no tempo e agradar o cliente.
